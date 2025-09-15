@@ -1,0 +1,2 @@
+# Encapsulation
+C++ encapsulation
